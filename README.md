@@ -1,3 +1,4 @@
+
 # Big Data Analytics Course Final Project
 
 ## Table of Contents
@@ -44,3 +45,43 @@ To run the code in this repository, you'll need the following libraries and depe
 You can install the required libraries using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone [repository link]
+   cd [repository folder]
+   ```
+
+2. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook Copy_of_Project_CIS_545.ipynb
+   ```
+
+3. Follow the instructions in the notebook to run each cell sequentially.
+
+### Data Cleaning and Preprocessing
+The data cleaning and preprocessing steps involved:
+- Removing irrelevant columns and rows with missing data
+- Aggregating data on a monthly basis
+- Merging datasets to create a comprehensive time series dataset
+
+### Analysis
+The analysis performed includes:
+- Visualization of COVID-19 cases and deaths over time
+- Examination of the correlation between travel patterns and COVID-19 spread
+- Identification of trends and patterns in the data
+
+## Results
+The project resulted in several key findings:
+- There is a notable correlation between the movement of people and the spread of COVID-19.
+- Certain periods of increased travel correspond to spikes in COVID-19 cases and deaths.
+- Visualizations clearly show the impact of travel restrictions on the pandemic's progression.
+
+![Visualization Example](path/to/visualization.png)
+
+## Contributors
+- Olanrewaju Soetan
+- Ibrahim Fagbamila
+- Kamran Elahi
