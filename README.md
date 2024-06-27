@@ -79,7 +79,7 @@ The project resulted in several key findings:
 - Certain periods of increased travel correspond to spikes in COVID-19 cases and deaths.
 - Visualizations clearly show the impact of travel restrictions on the pandemic's progression.
 
-![Visualization Example](https://github.com/timisoetan/CIS-545-Big-Data-Analytics-Final-Project/assets/167603630/7355f528-ae80-445b-886e-4c08cdc491d6)
+![Visualization Example](https://i.ibb.co/091C9Pd/covid-deaths-gif.gif)
 
 ## Contributors
 - Olanrewaju Soetan
