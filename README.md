@@ -8,7 +8,6 @@
 - [Usage](#usage)
 - [Results](#results)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 This repository contains the final project of the Big Data Analytics course. The project demonstrates our ability to handle, process, and analyze large datasets using various big data technologies and techniques.
