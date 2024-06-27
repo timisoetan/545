@@ -50,7 +50,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone [repository link]
+   git clone [[repository link](https://github.com/timisoetan/CIS-545-Big-Data-Analytics-Final-Project)]
    cd [repository folder]
    ```
 
